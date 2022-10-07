@@ -7,4 +7,6 @@ int main(void){
  
 a++;
 b++;
+
+a+b=c;
 x=c+a;

@@ -7,3 +7,4 @@ int main(void){
  
 a++;
 b++;
+a+b=c;
